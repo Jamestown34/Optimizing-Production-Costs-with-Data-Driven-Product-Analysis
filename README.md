@@ -1,5 +1,7 @@
 # 📊 Product Performance Analysis: Optimizing Production Costs in 2024
 
+![](https://github.com/Jamestown34/Optimizing-Production-Costs-with-Data-Driven-Product-Analysis/blob/main/PRODUCTIN/download%20(1).jpeg)
+
 ## 📝 Introduction
 
 ### 📌 Project Description/Overview  
@@ -48,6 +50,10 @@ The analysis used multiple datasets including:
 
 Each dataset contained essential attributes like product IDs, order dates, unit prices, payment amounts, and customer details. All date fields were converted into datetime format for accurate filtering.
 
+
+![](https://github.com/Jamestown34/Optimizing-Production-Costs-with-Data-Driven-Product-Analysis/blob/main/PRODUCTIN/Screenshot%20(58).png)
+
+
 ---
 
 ## 🧠 Project Methodology
@@ -84,6 +90,11 @@ Products that failed to meet either threshold were marked for potential phase-ou
 
 ### 👥 Customer Insights  
 Highlighted the most valuable customers who contributed significantly to revenue, helping with customer retention strategies.
+
+
+![](
+https://github.com/Jamestown34/Optimizing-Production-Costs-with-Data-Driven-Product-Analysis/blob/main/PRODUCTIN/Screenshot%20(60).png)
+
 
 ---
 
